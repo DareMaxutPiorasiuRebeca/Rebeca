@@ -50,7 +50,8 @@ public class ExercitiiMetode {
         System.out.println(adevar("rebeca"));
         System.out.println(caracterMijloc("rebeca"));
         System.out.println(caracterMijloc("abracadabra"));
-        System.out.println(sumaCifrelor(789456));
+        System.out.println(sumaCifrelor(789456));;
+        System.out.println();
 
     }
 
